@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+pydantic
+python-dotenv
+fpdf
+pillow
+requests
+beautifulsoup4
+pinecone
+snowflake-connector-python
+litellm
+python-multipart
