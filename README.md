@@ -7,7 +7,7 @@ This project provides an AI-driven solution that simplifies and personalizes tra
 - **Programming Languages**: Python, SQL  
 - **Data & Storage**: Apache Airflow, Snowflake (structured data), Pinecone (unstructured embeddings), AWS S3  
 - **Frameworks & Libraries**: Streamlit, FastAPI, CrewAI, BeautifulSoup, Playwright  
-- **APIs**: YouTube API, Grok API  
+- **APIs**: YouTube API, OpenAI API  
 - **Deployment**: Docker, Google Cloud Platform GCP, GitHub
 
 ## Key Features  
